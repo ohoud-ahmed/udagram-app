@@ -6,8 +6,8 @@ environment-defaults:
     branch: null
     repository: null
 global:
-  aws_access_key_id : eb --version
-  aws_secret_access_key : xLSWaAaWiEGpeKhCl+nE3pS/Q4fnKPjcXZKZPLEh
+  aws_access_key_id: eb --version
+  aws_secret_access_key: xLSWaAaWiEGpeKhCl+nE3pS/Q4fnKPjcXZKZPLEh
   application_name: myudagram-api
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
