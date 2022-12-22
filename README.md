@@ -4,8 +4,6 @@
 
 ---
 
-![s3-3](https://user-images.githubusercontent.com/82897751/209243038-b4d8fda2-a8ee-4a21-9cff-5fe98484d22b.PNG)
-
 
 
 
