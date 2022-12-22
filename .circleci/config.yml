@@ -44,16 +44,6 @@ jobs:
           name: API Build
           command: |
             npm run api:build
-      # TODO: Deploy the backend API      
-      - run:
-          name: API Deploy
-          command: |
-            npm run api:deploy
-      # TODO: Deploy thefrontend app      
-      - run:
-          name: front end Deploy
-          command: |
-            npm run frontend:deploy
       
   # deploy step will run only after manual approval
   deploy:
