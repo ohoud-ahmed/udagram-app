@@ -5,6 +5,8 @@ The udagram application is a fairly simple application that includes all the maj
 ## Preview
 This is the udagram link: [Udagram Website](http://bucket2302571.s3-website-us-east-1.amazonaws.com/home)
 
+![s3-2](https://user-images.githubusercontent.com/82897751/209341348-cd7203d6-0bc1-4679-bebc-2f034967c0e4.PNG)
+
 
 ### Installation
 
